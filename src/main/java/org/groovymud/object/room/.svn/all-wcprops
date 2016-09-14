@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/object/room
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/object/room/Location.java
+END
+Exit.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/object/room/Exit.java
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/object/room/Room.java
+END
+AbstractRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/object/room/AbstractRoom.java
+END

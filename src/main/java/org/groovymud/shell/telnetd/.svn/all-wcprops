@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/shell/telnetd
+END
+ExtendedTerminalIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/shell/telnetd/ExtendedTerminalIO.java
+END
+ShellBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/shell/telnetd/ShellBridge.java
+END
+MudShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/shell/telnetd/MudShell.java
+END
+LoginShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/shell/telnetd/LoginShell.java
+END

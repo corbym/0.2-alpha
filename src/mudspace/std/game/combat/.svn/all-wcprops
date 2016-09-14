@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/389/branches/0.2-alpha/src/mudspace/std/game/combat
+END
+Defence.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/389/branches/0.2-alpha/src/mudspace/std/game/combat/Defence.groovy
+END
+CombatBehaviour.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/389/branches/0.2-alpha/src/mudspace/std/game/combat/CombatBehaviour.groovy
+END
+AbstractAttack.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/389/branches/0.2-alpha/src/mudspace/std/game/combat/AbstractAttack.groovy
+END

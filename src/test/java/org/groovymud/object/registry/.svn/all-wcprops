@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/389/branches/0.2-alpha/src/test/java/org/groovymud/object/registry
+END
+RegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/389/branches/0.2-alpha/src/test/java/org/groovymud/object/registry/RegistryTest.java
+END
+InventoryHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/389/branches/0.2-alpha/src/test/java/org/groovymud/object/registry/InventoryHandlerTest.java
+END
+MudObjectAttendantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/389/branches/0.2-alpha/src/test/java/org/groovymud/object/registry/MudObjectAttendantTest.java
+END
+test.grvy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/389/branches/0.2-alpha/src/test/java/org/groovymud/object/registry/test.grvy
+END

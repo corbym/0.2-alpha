@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/389/branches/0.2-alpha/src/scripts/commands/god
+END
+man-text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/389/branches/0.2-alpha/src/scripts/commands/god/man-text.xml
+END
+man.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/389/branches/0.2-alpha/src/scripts/commands/god/man.groovy
+END
+shutdown.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/389/branches/0.2-alpha/src/scripts/commands/god/shutdown.groovy
+END
+mem.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/389/branches/0.2-alpha/src/scripts/commands/god/mem.groovy
+END
+testload.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/389/branches/0.2-alpha/src/scripts/commands/god/testload.groovy
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/engine/event/observer
+END
+Observable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/engine/event/observer/Observable.java
+END
+Observer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/engine/event/observer/Observer.java
+END
+IObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/389/branches/0.2-alpha/src/main/java/org/groovymud/engine/event/observer/IObservable.java
+END

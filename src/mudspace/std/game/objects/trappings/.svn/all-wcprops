@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/389/branches/0.2-alpha/src/mudspace/std/game/objects/trappings
+END
+AbstractWeapon.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/389/branches/0.2-alpha/src/mudspace/std/game/objects/trappings/AbstractWeapon.groovy
+END
+Wearable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/389/branches/0.2-alpha/src/mudspace/std/game/objects/trappings/Wearable.groovy
+END
+Holdable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/389/branches/0.2-alpha/src/mudspace/std/game/objects/trappings/Holdable.groovy
+END

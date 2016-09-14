@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<man>
+    <entry name="shutdown">
+        <description>
+            Shutting down the MUD couldn't be easier!
+        </description>
+        <syntax>
+        	shutdown
+        </syntax>
+        <example>
+        	shutdown
+        </example>
+    </entry>
+</man>

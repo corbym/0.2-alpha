@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/389/branches/0.2-alpha/src/test/groovy/utils
+END
+MatchedObjectTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/389/branches/0.2-alpha/src/test/groovy/utils/MatchedObjectTest.groovy
+END
+GenericSyntaxParserTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/389/branches/0.2-alpha/src/test/groovy/utils/GenericSyntaxParserTest.groovy
+END
+MixedListTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/389/branches/0.2-alpha/src/test/groovy/utils/MixedListTest.groovy
+END

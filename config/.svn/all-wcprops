@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/389/branches/0.2-alpha/config
+END
+policy.jaas
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/389/branches/0.2-alpha/config/policy.jaas
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/389/branches/0.2-alpha/config/log4j.xml
+END
+JMudEngine-alpha-0.2.launch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/389/branches/0.2-alpha/config/JMudEngine-alpha-0.2.launch
+END
+JMudEngine.launch
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/389/branches/0.2-alpha/config/JMudEngine.launch
+END
+policy
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/389/branches/0.2-alpha/config/policy
+END
+groovymud.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/389/branches/0.2-alpha/config/groovymud.conf
+END
+jaas.config
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/389/branches/0.2-alpha/config/jaas.config
+END
+telnetd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/389/branches/0.2-alpha/config/telnetd.conf
+END
